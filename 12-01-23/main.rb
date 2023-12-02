@@ -24,8 +24,6 @@ def part1(input)
         sum += (first_num + last_num).to_i
     end
     return sum
-
-    return input
 end
 
 
@@ -41,9 +39,7 @@ def part2(input)
         sum += 10 * (1 + nums.index(first_num) % 9) + (1 + nums.index(last_num) % 9)
     end
     return sum
-
-    return input
 end
 
-# puts part1(data)
+puts part1(data)
 puts part2(data)
