@@ -69,7 +69,6 @@ def part1(input)
             next if not collision
             next if collision[2] < 0 or collision[3] < 0
             next if collision[0] < cMin or collision[0] > cMax or collision[1] < cMin or collision[1] > cMax
-            count += 1
         end
     end
     return count
