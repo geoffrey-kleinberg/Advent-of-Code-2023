@@ -1,8 +1,8 @@
 # Advent-of-Code-2023
-My solutions to Advent of Code 2023.
+My solutions to Advent of Code 2023, now with tiles!
 <!-- AOC TILES BEGIN -->
 <h1 align="center">
-  2023 - 48 ⭐ - Ruby
+  2023 - 50 ⭐ - Ruby
 </h1>
 <a href="12-01-23/main.rb">
   <img src=".aoc_tiles/tiles/2023/01.png" width="161px">
@@ -70,7 +70,7 @@ My solutions to Advent of Code 2023.
 <a href="12-22-23/main.rb">
   <img src=".aoc_tiles/tiles/2023/22.png" width="161px">
 </a>
-<a href="None">
+<a href="12-23-23/main.rb">
   <img src=".aoc_tiles/tiles/2023/23.png" width="161px">
 </a>
 <a href="12-24-23/main.rb">
